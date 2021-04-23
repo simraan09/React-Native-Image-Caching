@@ -1,0 +1,12 @@
+{
+  "name": "ImageCache",
+  "displayName": "ImageCache",
+  "expo": {
+    "name": "ImageCache",
+    "slug": "ImageCache",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
